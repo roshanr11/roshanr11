@@ -1,16 +1,17 @@
-### Hi there 👋
+# Roshan Ram 
 
-<!--
-**roshanr11/roshanr11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<br/><a href="#contributing"><img alt="Contributions Welcome" src="https://img.shields.io/badge/contributions-welcome-brightgreen?style=for-the-badge&labelColor=black&logo=github"></a>
+</p>
+ 
+I'm a rising 2nd-year at Carnegie Mellon University, double majoring in Information Systems and Machine Learning + Statistics, pursuing a minor in Computer Science. 
+
+</p>
+
+- 🔭 Currently working as a Machine Learning/Data Science Engineer and Software Development Engineer intern
+- 🔭 Working on projects for social good - planning to dive into research 
+- 🌱 Currently learning advanced Natural Language Processing techniques and Deep Reinforcement Learning
+- 💬 Always open to collaborate on or discuss Machine Learning
+- 📫 Reach me at: rram@andrew.cmu.edu
