@@ -11,7 +11,7 @@ I'm a rising 2nd-year at Carnegie Mellon University, double majoring in Informat
 </p>
 
 - 🔭 Currently working as a Machine Learning/Data Science Engineer and Software Development Engineer intern
-- 🔭 Working on projects for social good - planning to dive into research 
-- 🌱 Currently learning advanced Natural Language Processing techniques and Deep Reinforcement Learning
+- 🔭 Working on projects for social good, planning to dive into research, frequent competitor on Kaggle
+- 🌱 Currently learning Natural Language Processing techniques and Deep Reinforcement Learning
 - 💬 Always open to collaborate on or discuss Machine Learning
 - 📫 Reach me at: rram@andrew.cmu.edu
