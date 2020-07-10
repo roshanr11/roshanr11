@@ -10,7 +10,7 @@ I'm a rising 2nd-year at Carnegie Mellon University, double majoring in Informat
 
 </p>
 
-- 🔭 Currently working as a Machine Learning/Data Science Engineer and Software Development Engineer intern
+- 🔭 Currently working as a Machine Learning/Data Science Engineer and Software Development Engineer intern with geospatial computer vision ML models at a federal contracting agency
 - 🔭 Working on projects for social good, planning to dive into research, frequent competitor on Kaggle
 - 🌱 Currently learning Natural Language Processing techniques and Deep Reinforcement Learning
 - 💬 Always open to collaborate on or discuss Machine Learning
