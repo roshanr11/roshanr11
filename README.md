@@ -11,6 +11,6 @@ I'm a rising 2nd-year at Carnegie Mellon University, double majoring in Informat
 
 - 🔭 Currently working as a Machine Learning/Data Science Engineer and Software Development Engineer intern with geospatial computer vision ML models at a federal contracting agency
 - 🔭 Working on projects for social good, planning to dive into research, frequent competitor on [Kaggle](http://www.kaggle.com/roshanr11)
-- 🌱 Currently diving deeper into Natural Language Processing techniques and Deep Reinforcement Learning
+- 🌱 Areas of Interest: Computer Vision, Natural Language Processing techniques, Deep Reinforcement Learning
 - 💬 Always open to collaborate on or discuss Machine Learning
 - 📫 Reach me at: rram@andrew.cmu.edu
