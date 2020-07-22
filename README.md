@@ -1,5 +1,7 @@
-# Roshan Ram 
+<h1 align="center"> Roshan Ram </h1>
 
+
+<h2 align = "center"><a href="https://www.roshanr11.github.io/" target="_blank">Personal Website</a></h2>
 
 
 <p align="center">
