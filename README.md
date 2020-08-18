@@ -1,4 +1,6 @@
-<h1 align="center"> Roshan Ram </h1>
+<h1 align="center"> Roshan Ram </h1> 
+
+[![linkedin](https://img.shields.io/badge/-@roshanr11-blue?style=flat-square&logo=LinkedIn)](https://www.linkedin.com/in/roshanr11/) 
 
 
 <h2 align = "center"><a href="https://roshanr11.github.io/">Personal Website</a></h2>
@@ -8,11 +10,11 @@
 <br/><a href="#contributing"><img alt="Contributions Welcome" src="https://img.shields.io/badge/contributions-welcome-brightgreen?style=for-the-badge&labelColor=black&logo=github"></a> 
 </p>
  
-I'm a rising 2nd-year at Carnegie Mellon University, double majoring in Information Systems and Machine Learning + Statistics, pursuing a minor in Computer Science. 
+I'm a rising 2nd-year at Carnegie Mellon University, double majoring in Information Systems and Machine Learning + Statistics, and pursuing a minor in Computer Science. 
 
 
-- 🔭 Currently working as a Machine Learning Engineer and Software Development Engineer intern with geospatial computer vision ML models at a federal contracting agency
-- 🔭 Working on projects for social good, planning to dive into research, frequent competitor on [Kaggle](http://www.kaggle.com/roshanr11)
+- 🔭 Currently working as a Machine Learning Engineer and Software Development Engineer intern with geospatial computer vision ML models @ In-Q-Tel, which delivers a venture capital firm that delivers cutting-edge technologies to the government
+- 🔭 Working on autonomous vehicle research, frequent competitor on [Kaggle](http://www.kaggle.com/roshanr11)
 - 🌱 Areas of Interest: Computer Vision, Natural Language Processing techniques, Deep Reinforcement Learning
 - 💬 Always open to collaborate on or discuss Machine Learning papers/problems/projects
 - 📫 Reach me at: rram@andrew.cmu.edu
