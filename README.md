@@ -13,7 +13,7 @@
 ## I'm a rising 2nd-year at Carnegie Mellon University, double majoring in Information Systems and Machine Learning + Statistics, and pursuing a minor in Computer Science. 
 
 
-- 🔭 Currently working as a Machine Learning Engineer and Software Development Engineer intern with geospatial computer vision ML models @ In-Q-Tel, which delivers a venture capital firm that delivers cutting-edge technologies to the government
+- 🔭 Previously worked as a Machine Learning Engineer and Software Development Engineer intern with geospatial computer vision ML models @ In-Q-Tel, a venture capital firm that delivers cutting-edge technologies to the CIA and other US Government agencies
 - 🔭 Working on autonomous vehicle research, frequent competitor on [Kaggle](http://www.kaggle.com/roshanr11)
 - 🌱 Areas of Interest: Computer Vision, Natural Language Processing techniques, Deep Reinforcement Learning
 - 💬 Always open to collaborate on or discuss Machine Learning papers/problems/projects
