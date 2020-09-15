@@ -22,10 +22,23 @@
 
 ---
 
-Projects: 
+# Projects: 
 
-- Bike-Sharing Predictions
-- Dog-Breed Classifier
+- Using Neural Network to Create Bike-Sharing Predictions
+- Using CNNs to Create a Dog-Breed Classifier
 - Face Generation Using Generative Adversarial Networks 
 - Creating TV Captions/Scripts with RNNs
 - Creating, Training, and Deploying a ML Model on AWS Sagemaker
+- Boston House Price Predictions
+- Interpreting Dermatalogist AI Results
+- Applying PCA, Unsupervised Learning to Learn Customer Segments from Data
+- Titanic EDA, Survival Predictions
+
+## Reinforcement Learning: 
+
+- Applying RL to Solve Frozen-Lake Environment Problem
+- Applying RL to Create A BlackJack AI
+- Applying RL to Solve Cliff-Walking Environment Problem
+- Applying RL to Solve OpenAI's Taxi-World Environment Problem 
+- Applying RL to Deep Q-Learning
+- Applying RL, Deep Q-Learning to Teach A Quadcopter How To Fly
