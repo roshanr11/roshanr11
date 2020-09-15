@@ -24,15 +24,27 @@
 
 # Projects: 
 
+## General:
 - Using Neural Network to Create Bike-Sharing Predictions
-- Using CNNs to Create a Dog-Breed Classifier
-- Face Generation Using Generative Adversarial Networks 
-- Creating TV Captions/Scripts with RNNs
 - Creating, Training, and Deploying a ML Model on AWS Sagemaker
 - Boston House Price Predictions
 - Interpreting Dermatalogist AI Results
 - Applying PCA, Unsupervised Learning to Learn Customer Segments from Data
 - Titanic EDA, Survival Predictions
+
+## Computer Vision:
+- Using CNNs to Create a Dog-Breed Classifier
+- Face Generation Using Generative Adversarial Networks 
+- Facial Keypoint Detection
+- Image Captioning with CNNs + RNN/LSTM on MS-COCO Dataset
+- Landmark Detection & Robot Tracking (SLAM)
+
+
+## Natural Language Processing:
+- Creating TV Captions/Scripts with RNNs
+- Deep Neural Networks for Speech Recognition
+- Hidden Markov Models for Part-of-Speech (POS) Tagging
+- RNNs for Machine Translation
 
 ## Reinforcement Learning: 
 
