@@ -31,6 +31,7 @@
 - Interpreting Dermatalogist AI Results
 - Applying PCA, Unsupervised Learning to Learn Customer Segments from Data
 - Titanic EDA, Survival Predictions
+- Using XGBoost, Deep Learning to Predict Insurance Claims (Kaggle Competition, Capstone Project)
 
 ## Computer Vision:
 - Using CNNs to Create a Dog-Breed Classifier
