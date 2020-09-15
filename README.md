@@ -17,4 +17,4 @@
 - 🔭 Working on autonomous vehicle research, frequent competitor on [Kaggle](http://www.kaggle.com/roshanr11)
 - 🌱 Areas of Interest: Computer Vision, Natural Language Processing techniques, Deep Reinforcement Learning
 - 💬 Always open to collaborate on or discuss Machine Learning papers/problems/projects
-- 📫 Reach me at: rram@andrew.cmu.edu
+- 📫 Reach me at: rram [at] andrew [dot] cmu [dot] edu
