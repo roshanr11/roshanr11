@@ -22,5 +22,10 @@
 
 ---
 
+Projects: 
 
-
+- Bike-Sharing Predictions
+- Dog-Breed Classifier
+- Face Generation Using Generative Adversarial Networks 
+- Creating TV Captions/Scripts with RNNs
+- Creating, Training, and Deploying a ML Model on AWS Sagemaker
