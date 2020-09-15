@@ -14,7 +14,13 @@
 
 
 - 🔭 Previously worked as a Machine Learning Engineer and Software Development Engineer intern with geospatial computer vision ML models @ In-Q-Tel, a venture capital firm that delivers cutting-edge technologies to the CIA and other US Government agencies
-- 🔭 Working on autonomous vehicle research, frequent competitor on [Kaggle](http://www.kaggle.com/roshanr11)
+- 🔭 Researching: multi-agent reinforcement learning, graph neural networks, zero-shot dependancy parsing 
+- 🌱 Frequent competitor on [Kaggle](http://www.kaggle.com/roshanr11)
 - 🌱 Areas of Interest: Computer Vision, Natural Language Processing techniques, Deep Reinforcement Learning
-- 💬 Always open to collaborate on or discuss Machine Learning papers/problems/projects
+- 💬 Open to collaborate on or discuss Machine Learning papers/problems/projects
 - 📫 Reach me at: rram [at] andrew [dot] cmu [dot] edu
+
+---
+
+
+
