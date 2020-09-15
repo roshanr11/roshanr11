@@ -46,6 +46,7 @@
 - Deep Neural Networks for Speech Recognition
 - Hidden Markov Models for Part-of-Speech (POS) Tagging
 - RNNs for Machine Translation
+- RNNs for Text Sentiment Analysis
 
 ## Reinforcement Learning: 
 
