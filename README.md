@@ -24,7 +24,7 @@
 
 # Projects: 
 
-## General:
+## General ML:
 - Using Neural Network to Create Bike-Sharing Predictions
 - Creating, Training, and Deploying a ML Model on AWS Sagemaker
 - Boston House Price Predictions
@@ -56,3 +56,8 @@
 - Applying RL to Solve OpenAI's Taxi-World Environment Problem 
 - Applying RL to Deep Q-Learning
 - Applying RL, Deep Q-Learning to Teach A Quadcopter How To Fly
+
+## Other:
+- [Personal Website](https://roshanr11.github.io) (In progress)
+- Tetris
+- Flappy Food Chain (sidescroller game)
