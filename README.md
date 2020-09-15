@@ -10,11 +10,11 @@
 <br/><a href="#contributing"><img alt="Contributions Welcome" src="https://img.shields.io/badge/contributions-welcome-brightgreen?style=for-the-badge&labelColor=black&logo=github"></a> 
 </p>
  
-## I'm a rising 2nd-year at Carnegie Mellon University, double majoring in Information Systems and Machine Learning + Statistics, and pursuing a minor in Computer Science. 
+## I'm a 2nd-year undergraduate student at Carnegie Mellon University, double majoring in Information Systems and Machine Learning + Statistics, and pursuing a minor in Computer Science. I'm working towards making my mark on the world. 
 
 
 - 🔭 Previously worked as a Machine Learning Engineer and Software Development Engineer intern with geospatial computer vision ML models @ In-Q-Tel, a venture capital firm that delivers cutting-edge technologies to the CIA and other US Government agencies
-- 🔭 Researching: multi-agent reinforcement learning, graph neural networks, zero-shot dependancy parsing 
+- 🔭 Researching: multi-agent reinforcement learning, graph neural networks, zero-shot dependency parsing 
 - 🌱 Frequent competitor on [Kaggle](http://www.kaggle.com/roshanr11)
 - 🌱 Areas of Interest: Computer Vision, Natural Language Processing techniques, Deep Reinforcement Learning
 - 💬 Open to collaborate on or discuss Machine Learning papers/problems/projects
