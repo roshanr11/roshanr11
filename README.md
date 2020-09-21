@@ -8,6 +8,7 @@
 
 <p align="center">
 <br/><a href="#contributing"><img alt="Contributions Welcome" src="https://img.shields.io/badge/contributions-welcome-brightgreen?style=for-the-badge&labelColor=black&logo=github"></a> 
+ <br/><a><img src="https://visitor-badge.glitch.me/badge?page_id=roshanr11.personal-visitor-badge" alt="visitor badge"/></a>
 </p>
  
 ## I'm a 2nd-year undergraduate student at Carnegie Mellon University, double majoring in Information Systems and Machine Learning + Statistics, and pursuing a minor in Computer Science. I'm working towards making my mark on the world. 
