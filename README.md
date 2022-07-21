@@ -11,9 +11,9 @@
  <br/><a><img src="https://visitor-badge.glitch.me/badge?page_id=roshanr11.personal-visitor-badge" alt="visitor badge"/></a>
 </p>
  
-## I'm a 2nd-year undergraduate student at Carnegie Mellon University, majoring in Information Systems with minors in Machine Learning and Software Engineering. I'm working towards making my mark on the world. 
+## I'm a final-year undergraduate student at Carnegie Mellon University, majoring in Information Systems with minors in Machine Learning and Software Engineering. I'm working towards making my mark on the world. 
 
-- Incoming Machine Learning Engineer intern @ 
+- Machine Learning Engineer intern @  (2 x @ )
 - 🔭 Previously worked as a Machine Learning Engineer and Software Development Engineer intern with geospatial computer vision ML models @ In-Q-Tel, a venture capital firm that delivers cutting-edge technologies to the CIA and other US Government agencies
 - 🔭 Researching: multi-agent reinforcement learning, graph neural networks, zero-shot dependency parsing 
 - 🌱 Frequent competitor on [Kaggle](http://www.kaggle.com/roshanr11)
