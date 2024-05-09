@@ -22,7 +22,7 @@
 - 🌱 Frequent competitor on [Kaggle](http://www.kaggle.com/roshanr11)
 - 🌱 Areas of Interest: Computer Vision, Natural Language Processing techniques, Deep Reinforcement Learning
 - 💬 Open to collaborate on or discuss Machine Learning papers/problems/projects
-- 📫 Reach me at: rram [at] andrew [dot] cmu [dot] edu
+- 📫 Reach me at: roshan.ram [at] gmail.com
 
 ---
 
