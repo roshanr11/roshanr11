@@ -3,7 +3,7 @@
 [![linkedin](https://img.shields.io/badge/-@roshanr11-blue?style=flat-square&logo=LinkedIn)](https://www.linkedin.com/in/roshanr11/) 
 
 
-<h2 align = "center"><a href="https://roshanr11.github.io/">Personal Website</a></h2>
+<h2 align = "center"><a href="linktr.ee/roshan.ram">Personal Website</a></h2>
 
 
 <p align="center">
@@ -22,7 +22,7 @@
 - 🌱 Frequent competitor on [Kaggle](http://www.kaggle.com/roshanr11)
 - 🌱 Areas of Interest: Computer Vision, Natural Language Processing techniques, Deep Reinforcement Learning
 - 💬 Open to collaborate on or discuss Machine Learning papers/problems/projects
-- 📫 Reach me at: roshan.ram [at] gmail.com
+- 📫 Reach me at: roshan.ram0101 [at] gmail.com
 
 ---
 
